@@ -1,0 +1,14 @@
+.hero {
+    padding-bottom: 30px;
+    background-color: yellow;
+    height: 100vh;
+    background-image: url(../img/image1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+}
+    .row {
+        width: 600px;
+        margin: 0 calc(50% - 300px);
+    }

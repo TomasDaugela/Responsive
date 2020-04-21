@@ -1,0 +1,9 @@
+.main {
+    height: 100vh;
+    background-image: url(../img/image2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: yellow;
+    text-align: center;
+}
